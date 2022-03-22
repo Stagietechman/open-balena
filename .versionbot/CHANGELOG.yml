@@ -1,4 +1,19 @@
 - commits:
+    - subject: (WIP) openBalena on balenaOS
+      hash: 3be25c15639132f5764820a44ba936c79d3912d8
+      body: |
+        * orchestrate openBalena on ephemeral device(s) in AWS with GHA workflow
+        * uses another WIP project to create  a virtual test device
+        * adds placeholder openBalena test suite
+      footer:
+        Change-type: major
+        change-type: major
+      author: ab77
+      nested: []
+  version: 4.0.0
+  title: "'(WIP) openBalena on balenaOS'"
+  date: 2022-03-22T15:20:43.852Z
+- commits:
     - subject: "chore(registry): removed data volume"
       hash: 3fed389090e18cb977416cafea8a87c0ed4e2b7f
       body: ""
